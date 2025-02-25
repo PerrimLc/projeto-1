@@ -1,2 +1,2 @@
-# projeto-1
- Primeiro repositorio 
+# Projeto 
+Primeiro projeto para Git e GitHub
